@@ -1,0 +1,10 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+  },
+  "workbench.colorTheme": "Monokai Night",
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "javascript.updateImportsOnFileMove.enabled": "always"
+}

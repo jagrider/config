@@ -1,0 +1,23 @@
+## Extensions
+Extensions that I use across all my different projects (in no particular order):
+- Beautify
+- ESLint
+- IntelliSense for CSS class names in HTML
+- Monokai Night Theme
+- node-snippets
+- Path Intellisense
+- Prettier - Code formatter
+- SVG Previewer
+- Vetur
+- vscode-icons
+- Vue 2 Snippets
+- Vue VSCode Snippets
+- Auto Close Tag
+- Auto Rename Tag
+- CloudFormation
+- Docker
+- EditorConfig for VS Code
+- HashiCorp Terraform
+- JSX HTML <tags/>
+- TODO Hilight
+- YAML

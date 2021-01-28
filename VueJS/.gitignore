@@ -1,0 +1,28 @@
+.DS_STORE
+node_modules/
+/public/env-config.js
+
+# Testing
+/coverage
+
+# Production
+/dist
+/build
+
+# ENV Files
+.env
+.env.local
+.env.*.local
+
+# Log Files
+logs
+*.log
+npm-debug.log
+
+# Temporary Files / Folders
+tmp/
+temp/
+temp.*
+
+# Editor directories / files
+.vscode
